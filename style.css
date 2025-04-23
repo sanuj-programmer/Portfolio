@@ -121,7 +121,8 @@ section{
   line-height: 1.8;
 }
 .home-img img{
-  width: 32vw;
+  width: 50vw;
+  height: 50vw;
   border-radius: 50%;
   box-shadow: 0 0 25px var(--main-color);
   transition : 0.4s ease-in-out;
@@ -192,7 +193,8 @@ section{
   background: var(--second-bg-color);
 }
 .about-img img{
-  width: 32vw;
+  width: 50vw;
+  height: 50vw;
   border-radius: 50%;
   box-shadow: 0 0 25px var(--main-color);
   transition : 0.4s ease-in-out;
