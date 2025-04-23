@@ -105,7 +105,7 @@ section{
   align-items: flex-end;
   text-align: right;
 }
-.home-content hl{
+.home-content h2{
   font-size: 8rem;
   font-weight: 700;
   margin-top: 1.5rem;
@@ -116,13 +116,13 @@ section{
   font-size: 4rem;
 }
 .home-content p{
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.8;
 }
 .home-img img{
   width: 30vw;
-  height: 30vw;
+  height: 35vw;
   border-radius: 50%;
   box-shadow: 0 0 25px var(--main-color);
   transition : 0.4s ease-in-out;
